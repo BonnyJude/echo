@@ -2,3 +2,5 @@ streamlit==1.54.0
 pandas==2.3.3
 google-genai==1.63.0
 python-dotenv==1.2.1
+plotly==6.1.2
+openpyxl==3.1.5

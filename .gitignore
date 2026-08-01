@@ -9,3 +9,6 @@ env/
 # Python bytecode
 __pycache__/
 *.py[cod]
+
+# Data Files
+quarter_01_sales.csv
